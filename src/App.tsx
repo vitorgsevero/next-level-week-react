@@ -1,7 +1,10 @@
+import { Button } from './components/Button'
 
 function App() {
   return (
-    <h1>MoveIt</h1>
+    <Button color="red">
+      Botão
+    </Button>
   );
 }
 
