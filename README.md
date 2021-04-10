@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![MoveIT App](https://raw.githubusercontent.com/vitorgsevero/next-level-week-react/master/public/moveit.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
